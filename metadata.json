@@ -1,0 +1,11 @@
+{
+  "name": "Remix: WhatsApp Android Project \u0026 Simulator",
+  "description": "An interactive side-by-side WhatsApp chat and WebRTC call simulator with an integrated Android Studio Kotlin project generator, source explorer, and ZIP exporter.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
